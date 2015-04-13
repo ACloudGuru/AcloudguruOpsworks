@@ -2,29 +2,17 @@
 <html lang="en">
 
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Hello Cloud Gurus</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-        <style>body {margin-top: 40px; background-color: #333;}</style>
-        <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
-        <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
 
     <body>
-        <div class="container">
-            <div  class="hero-unit">
+<div align="center">
                 <h1>Hello Cloud Guru's</h1>
-                <h2>Congratulations!</h2>
+                <h2>Congratulations! You have successfully installed an application to OpsWorks!</h2>
                 <div align="center"><img src="https://s3-eu-west-1.amazonaws.com/acloudguru/logo.png"></div>
-                <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
+                <p>You ACloudGuru Application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in a new stack and layer in OpsWorks.</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
-            </div>
         </div>
-
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-        <script src="assets/js/bootstrap.min.js"></script>
     </body>
 
 </html>
