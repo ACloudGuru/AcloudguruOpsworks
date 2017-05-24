@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
-        <title>Hello Cloud Gurus</title>
-    </head>
-
     <body>
 <div align="center">
                 <h1>Hello Cloud Guru's</h1>
